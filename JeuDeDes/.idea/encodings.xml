@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/BuncoPlus/BuncoPlus.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/BuncoPlus/ScoreBuncoPlus.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Framework/CollectionDes.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Framework/CollectionJoueurs.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Framework/Des.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Framework/Jeu.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Framework/JeuFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Framework/Joueurs.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/TestUnitaires/TestDe.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/TestUnitaires/TestJeu.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/TestUnitaires/TestJoueur.java" charset="windows-1252" />
+  </component>
+</project>
